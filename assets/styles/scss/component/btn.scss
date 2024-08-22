@@ -1,0 +1,20 @@
+.nav__btns {
+    display: flex;
+    align-items: center;
+
+    .btn {
+        display: flex;
+        align-items: center;
+        padding: 8px 14px;
+        border: 1px solid white;
+        border-radius: 50px;
+        box-shadow: -2.62px -1.62px 4.24px 0px #FAFAFA38 inset;
+
+        a {
+            line-height: 20px;
+            margin-left: 11px;
+            color: #fff;
+            text-decoration: none;
+        }
+    }
+}
